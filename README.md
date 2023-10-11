@@ -1,8 +1,15 @@
 # LeetCode Problem Solutions
+Welcome to my LeetCode Problem Solutions repository! Here, you can find my solutions to various LeetCode problems. Each solution is provided in a Jupyter Notebook file (.ipynb). In each Jupyter Notebook file, you'll find the following information:
 
-This repository contains my solutions to various LeetCode problems. Each code file is named after the problem code and name for easy reference.
+- **Problem Description**: A detailed description of the problem statement, outlining the input and output requirements, as well as any additional information provided by LeetCode.
 
-LeetCode is a popular platform for practicing coding difficulties, preparing for technical interviews, and enhancing your problem-solving skills. It offers a wide range of coding challenges and contests, with over 1,900 questions covering different programming concepts.
+- **My Solution(s)**: I've provided my solution(s) to the problem, along with explanations and comments where necessary to clarify the thought process and implementation.
+
+- **Accepted Solutions Runtime Distribution**: This section includes information about the distribution of runtime for accepted solutions. It can help you understand how your solution performs in comparison to others.
+
+- **Accepted Solutions Memory Distribution (%)**: Similarly, you can also find information on the distribution of memory usage for accepted solutions. This can provide insights into the memory efficiency of your solution.
+
+Please feel free to explore the Jupyter Notebook files to gain a deeper understanding of the problems and how I've approached them. If you have any questions or suggestions for improvements, don't hesitate to reach out.
 
 ## Problem Classification
 
@@ -15,9 +22,9 @@ You can find problems of varying difficulty levels in this repository, providing
 
 ## How to Navigate
 
-To access a specific problem solution, simply locate the code file with the corresponding problem code and name. The repository is organized with the following naming convention:
+To access a specific problem solution, simply locate the Jupyter Notebook file with the corresponding problem code and name. The repository is organized with the following naming convention:
 
-`[Problem Code] - [Problem Name].py`
+`[Problem Code] - [Problem Name].ipynb`
 
 ## Contributing
 
