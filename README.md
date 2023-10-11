@@ -17,7 +17,7 @@ You can find problems of varying difficulty levels in this repository, providing
 
 To access a specific problem solution, simply locate the code file with the corresponding problem code and name. The repository is organized with the following naming convention:
 
-`[Problem Code] - [Problem Name].py`
+`[Problem Code] - [Problem Name].ipynb`
 
 ## Contributing
 
