@@ -11,6 +11,8 @@ Welcome to my LeetCode Problem Solutions repository! Here, you can find my solut
 
 Please feel free to explore the Jupyter Notebook files to gain a deeper understanding of the problems and how I've approached them. If you have any questions or suggestions for improvements, don't hesitate to reach out.
 
+You can also check out my [LeetCode profile](https://leetcode.com/jonaidshiani/) to see more of my coding challenges and progress.
+
 ## Problem Classification
 
 LeetCode categorizes problems into three difficulty levels:
