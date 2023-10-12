@@ -32,7 +32,7 @@ To access a specific problem solution, simply locate the Jupyter Notebook file w
 
 I've been following a structured coding roadmap to improve my problem-solving skills and tackle LeetCode challenges effectively. You can check out my coding journey and the roadmap I've been using at [neetcode.io/roadmap](https://neetcode.io/roadmap). This roadmap has been instrumental in guiding my progress and enhancing my technical skills.
 
-Feel free to explore the roadmap and see how it can benefit your own coding journey. Happy coding!
+Feel free to explore the roadmap and see how it can benefit your own coding journey.
 
 
 ## Contributing
