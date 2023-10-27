@@ -1,25 +1,23 @@
 # LeetCode Problem Solutions
 [![](https://img.shields.io/badge/-LeetCode-d16200?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/)
 [![](https://img.shields.io/badge/-Jupyter-d16200?logo=jupyter&logoColor=white&style=flat)]()
-[![](https://img.shields.io/badge/-Python-232323?logo=python&logoColor=white&style=flat)]()
+[![](https://img.shields.io/badge/-Python-0065d1?logo=python&logoColor=white&style=flat)]()
+
 Welcome to my LeetCode Problem Solutions repository! Here, you can find my solutions to various LeetCode problems. Each solution is provided in a Jupyter Notebook file (.ipynb). In each Jupyter Notebook file, you'll find the following information:
 
 - **Problem Description**: A detailed description of the problem statement, outlining the input and output requirements, as well as any additional information provided by LeetCode.
 
 - **My Solution(s)**: I've provided my solution(s) to the problem, along with explanations and comments where necessary to clarify the thought process and implementation.
 
-- **Accepted Solutions Runtime Distribution**: This section includes information about the distribution of runtime for accepted solutions. It can help you understand how your solution performs in comparison to others.
-
-- **Accepted Solutions Memory Distribution (%)**: Similarly, you can also find information on the distribution of memory usage for accepted solutions. This can provide insights into the memory efficiency of your solution.
-
-Please feel free to explore the Jupyter Notebook files to gain a deeper understanding of the problems and how I've approached them. If you have any questions or suggestions for improvements, don't hesitate to reach out.
 
 You can also check out my [LeetCode profile](https://leetcode.com/jonaidshiani/) to see more of my coding challenges and progress.
 
 ## Problem Classification
 
 LeetCode categorizes problems into three difficulty levels:
-- Easy
+<span style="background-color: #04d60f; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block;"> 
+    Easy
+</span>
 - Medium
 - Hard
 
