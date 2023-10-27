@@ -1,7 +1,7 @@
 # LeetCode Problem Solutions
 [![](https://img.shields.io/badge/-LeetCode-d16200?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/)
-[![](https://img.shields.io/badge/-Jupyter-d16200?logo=jupyter&logoColor=white&style=flat)](https://leetcode.com/problems/top-k-frequent-elements/description/)
-
+[![](https://img.shields.io/badge/-Jupyter-d16200?logo=jupyter&logoColor=white&style=flat)]()
+[![](https://img.shields.io/badge/-Python-232323?logo=python&logoColor=white&style=flat)]()
 Welcome to my LeetCode Problem Solutions repository! Here, you can find my solutions to various LeetCode problems. Each solution is provided in a Jupyter Notebook file (.ipynb). In each Jupyter Notebook file, you'll find the following information:
 
 - **Problem Description**: A detailed description of the problem statement, outlining the input and output requirements, as well as any additional information provided by LeetCode.
