@@ -17,9 +17,7 @@ You can also check out my [LeetCode profile](https://leetcode.com/jonaidshiani/)
 LeetCode categorizes problems into three difficulty levels:
 
 [![](https://img.shields.io/badge/-Easy-04d60f?&style=flat)]()
-
 [![](https://img.shields.io/badge/-Medium-ed8e00?&style=flat)]()
-
 [![](https://img.shields.io/badge/-Hard-d10202?&style=flat)]()
 
 
