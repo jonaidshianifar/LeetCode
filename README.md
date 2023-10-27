@@ -15,12 +15,13 @@ You can also check out my [LeetCode profile](https://leetcode.com/jonaidshiani/)
 ## Problem Classification
 
 LeetCode categorizes problems into three difficulty levels:
-<span style="background-color: #04d60f; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block;"> 
-    Easy
-</span>
+
 [![](https://img.shields.io/badge/-Easy-04d60f?&style=flat)]()
-- Medium
-- Hard
+
+[![](https://img.shields.io/badge/-Medium-ed8e00?&style=flat)]()
+
+[![](https://img.shields.io/badge/-Hard-d10202?&style=flat)]()
+
 
 You can find problems of varying difficulty levels in this repository, providing an opportunity to strengthen your skills and tackle coding challenges of different complexities.
 
