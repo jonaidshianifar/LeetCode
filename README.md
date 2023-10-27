@@ -35,23 +35,6 @@ I've been following a structured coding roadmap to improve my problem-solving sk
 
 Feel free to explore the roadmap and see how it can benefit your own coding journey.
 
-Here you can find The list of problems done me in order of roadmap, The color of each problem is difficulty level:
-
-##### Arrays & Hashing:
-
-[![](https://img.shields.io/badge/-217-04d60f?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/217-%20Contains%20Duplicate.ipynb)
-[![](https://img.shields.io/badge/-242-04d60f?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/242-%20Valid%20Anagram.ipynb)
-[![](https://img.shields.io/badge/-1-04d60f?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/1-%20Two%20Sum.ipynb)
-[![](https://img.shields.io/badge/-49-ed8e00?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/49-%20Group%20Anagrams.ipynb)
-[![](https://img.shields.io/badge/-347-ed8e00?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/347-%20Top%20K%20Frequent%20Elements.ipynb)
-[![](https://img.shields.io/badge/-36-ed8e00?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/36-%20Valid%20Sudoku.ipynb)
-
-
-##### Two Pointers:
-
-[![](https://img.shields.io/badge/-125-04d60f?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/125-%20Valid%20Palindrome.ipynb)
-[![](https://img.shields.io/badge/-167-ed8e00?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/167-%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb)
-
 ## Contributing
 
 If you'd like to contribute to this repository, you can follow these steps:
