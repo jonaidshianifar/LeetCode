@@ -18,6 +18,7 @@ LeetCode categorizes problems into three difficulty levels:
 <span style="background-color: #04d60f; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block;"> 
     Easy
 </span>
+[![](https://img.shields.io/badge/-Easy-04d60f?&style=flat)]()
 - Medium
 - Hard
 
