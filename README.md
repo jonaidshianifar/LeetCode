@@ -1,5 +1,6 @@
 # LeetCode Problem Solutions
 [![](https://img.shields.io/badge/-LeetCode-d16200?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/)
+[![](https://img.shields.io/badge/-neetcode-d16200?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/)
 [![](https://img.shields.io/badge/-Jupyter-d16200?logo=jupyter&logoColor=white&style=flat)]()
 [![](https://img.shields.io/badge/-Python-0065d1?logo=python&logoColor=white&style=flat)]()
 
