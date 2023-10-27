@@ -37,7 +37,7 @@ Feel free to explore the roadmap and see how it can benefit your own coding jour
 
 Here you can find The list of problems done me in order of roadmap, The color of each problem is difficulty level:
 
-Arrays & Hashing:
+### Arrays & Hashing:
 
 [![](https://img.shields.io/badge/-217-04d60f?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/217-%20Contains%20Duplicate.ipynb)
 [![](https://img.shields.io/badge/-242-04d60f?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/242-%20Valid%20Anagram.ipynb)
@@ -47,8 +47,8 @@ Arrays & Hashing:
 [![](https://img.shields.io/badge/-36-ed8e00?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/36-%20Valid%20Sudoku.ipynb)
 
 
-Two Pointers:
-125 - 167 
+### Two Pointers:
+
 [![](https://img.shields.io/badge/-125-04d60f?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/125-%20Valid%20Palindrome.ipynb)
 [![](https://img.shields.io/badge/-167-ed8e00?&style=flat)](https://github.com/jonaidshianifar/LeetCode/blob/main/167-%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb)
 
