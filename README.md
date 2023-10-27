@@ -30,7 +30,7 @@ To access a specific problem solution, simply locate the Jupyter Notebook file w
 `[Problem Code]- [Problem Name].ipynb`
 
 ## Roadmap
-[![](https://img.shields.io/badge/-RoadMap-0065d1?logo=roadmap&logoColor=white&style=flat)]()
+
 I've been following a structured coding roadmap to improve my problem-solving skills and tackle LeetCode challenges effectively. You can check out my coding journey and the roadmap I've been using at [neetcode.io/roadmap](https://neetcode.io/roadmap). This roadmap has been instrumental in guiding my progress and enhancing my technical skills.
 
 Feel free to explore the roadmap and see how it can benefit your own coding journey.
@@ -48,4 +48,4 @@ If you'd like to contribute to this repository, you can follow these steps:
 
 Please remember that LeetCode is a valuable resource for honing your coding skills and preparing for technical interviews. However, it's essential to use it responsibly and avoid any unethical practices like plagiarism or cheating.
 
-Happy coding!!
+Happy coding :Happy:
