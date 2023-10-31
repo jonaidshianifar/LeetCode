@@ -12,7 +12,7 @@ Welcome to my LeetCode Problem Solutions repository! Here, you can find my solut
 
 You can also check out my [LeetCode profile](https://leetcode.com/jonaidshiani/) to see more of my coding challenges and progress.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jonaidshiani?theme=nord&font=Ubuntu)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jonaidshiani?theme=dark&font=Ubuntu)
 
 ## Problem Classification
 
